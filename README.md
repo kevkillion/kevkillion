@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Python Packages**
 
-- 🤝 I’m looking for jobs in **Data Analytics, Data Engineering, SQL Developer**
+- 🤝 I’m looking for jobs in **Data Analytics, Data Engineering, SQL Development, Cloud Computing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
