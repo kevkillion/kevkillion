@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/42/a8/d4/42a8d4625aeb088c45eba5a84ca36325.gif)](https://kevkillion.io)
+<img align="centre" alt="Banner" width="1100" height="500" src="https://i.pinimg.com/originals/42/a8/d4/42a8d4625aeb088c45eba5a84ca36325.gif">
 <h1 align="center">Hi 👋, I'm Kevin</h1>
 <h3 align="center">An experienced Data Analyst from Ireland</h3>
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/origin/c0/c05e0a986df727559354c449602105d0_w200.gif">
@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Python Packages**
 
-- 🤝 I’m looking for jobs in **Data Analytics, Data Engineering, SQL Development, Cloud Computing**
+- 🤝 I’m looking for jobs in **Data Analytics, Data Engineering, </br> SQL Development, Cloud Computing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
