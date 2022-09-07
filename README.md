@@ -5,13 +5,12 @@
 
 </a> </p>
 
+- 🤝 I’m looking for opportunities in **Data Analytics, Data Engineering, </br> SQL Development, Cloud Computing**
+
 - 🔭 I’m currently working on **SQL Projects**
 
 - 🌱 I’m currently learning **AWS Cloud Computing**
 
-- 👯 I’m looking to collaborate on **Python Packages**
-
-- 🤝 I’m looking for jobs in **Data Analytics, Data Engineering, </br> SQL Development, Cloud Computing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
