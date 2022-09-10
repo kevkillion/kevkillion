@@ -1,15 +1,15 @@
 <img align="centre" alt="Banner" width="1100" height="300" src="https://i.pinimg.com/originals/42/a8/d4/42a8d4625aeb088c45eba5a84ca36325.gif">
-<h1 align="center">Hi 👋, I'm Kevin</h1>
-<h3 align="center">An experienced Data Analyst from Ireland</h3>  </br> 
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/origin/c0/c05e0a986df727559354c449602105d0_w200.gif">
+<h1 align="center">Welcome, I'm Kevin</h1>
+<h3 align="center">A Data Analyst from Ireland with over 5 years experience</h3>  </br> 
+<img align="right" alt="Coding" height="220" width="400" src="https://static.wixstatic.com/media/3e99b9_f53a1cab95ae4dfd938a1bf6a1a62f49~mv2.gif">
 
 </a> </p>
 
-- 🤝 I’m looking for opportunities in **Data Analytics, Data Engineering, SQL Development, Cloud Computing**
+- 🔍  Seeking opportunities in **Data Analytics, Data Engineering, SQL Development, Cloud Computing**
 
-- 🔭 I’m currently working on **SQL Projects**
+- 📊  Currently working on **Database Engineering and Data Visualisation Projects**
 
-- 🌱 I’m currently learning **AWS Cloud Computing**
+- ☁️   Latest goal is to become certified in **AWS Cloud Computing**
 
 </br> 
  
