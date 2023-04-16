@@ -1,4 +1,4 @@
-<img align="centre" alt="Banner" width="1100" height="300" src="https://i.pinimg.com/originals/42/a8/d4/42a8d4625aeb088c45eba5a84ca36325.gif">
+<img align="centre" alt="Banner" width="1100" height="250" src="https://i.pinimg.com/originals/42/a8/d4/42a8d4625aeb088c45eba5a84ca36325.gif">
 <h1 align="center">Welcome, I'm Kevin</h1>
 <h3 align="center">A Data Analyst from Ireland with 5+ years idustry experience</h3>  </br> 
 <img align="right" alt="Coding" height="220" width="420" src="https://static.wixstatic.com/media/3e99b9_f53a1cab95ae4dfd938a1bf6a1a62f49~mv2.gif">
