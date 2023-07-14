@@ -9,7 +9,7 @@
 
 - 📊  Currently working on **Database Engineering and Data Visualisation Projects**
 
-- ☁️   Latest goal is to become certified in **AWS Cloud Computing**
+- ☁️   Latest goal is to become certified in **Databricks & Cloud Computing**
 
 </br> 
  
